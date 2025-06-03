@@ -9,8 +9,7 @@ import sys
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Import your data processing functions from the local src package
-# Make sure your current working directory is the project root for this import to work
+
 from src.data_processing import load_data, preprocess_data
 
 # Ensure MLflow connects to your local UI/tracking server
@@ -64,10 +63,7 @@ def predict_performance(model_name, model_stage, input_season, output_file_path)
                 logging.warning(f"No data found for season {input_season}. Cannot make predictions.")
                 return # Exit if no data for the season
 
-            # Prepare features for prediction
-            # Ensure 'player_name', 'season', 'team_abbreviation' are not passed to model
-            # as they are typically not numerical features used for prediction.
-            # Make sure feature list matches the one used during training.
+            
             features = [
                 'age', 'player_height', 'player_weight', 'gp', 'ast', 'reb', 
                 'net_rating', 'oreb_pct', 'dreb_pct', 'usg_pct', 'ts_pct', 'ast_pct'
