@@ -39,3 +39,7 @@ ________________________________________________________________________________
 --To predict the 2022 performance metrics 
 .\.venv\Scripts\python.exe -m src.model_prediction --model_name="PlayerPerformanceModel_1996_2021_test_2022" --model_stage="None" --input_season=2022 --output_file_path="data/predictions/season_2022_predictions.csv"
 
+_____________________________________________________________________________________________
+
+--To run the decision tree and the story lines  (year is a variable)
+& $python_exe -m src.data_analysis --season_for_analysis=2015
