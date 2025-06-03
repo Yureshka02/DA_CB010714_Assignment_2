@@ -102,7 +102,7 @@ if __name__ == "__main__":
                         help="Stage of the model to use (e.g., 'Production', 'Staging', 'None' for latest)")
     parser.add_argument("--input_season", type=int, default=2023,
                         help="The season for which to make predictions (e.g., 2023)")
-    parser.add_argument("--output_file_path", type=str, default="data/predictions/season_2023_predictions.csv",
+    parser.add_argument("--output_file_path", type=str, default="data/predictions/season_2023_predictions.csv", 
                         help="Path to save the prediction results CSV file")
     
     args = parser.parse_args()
