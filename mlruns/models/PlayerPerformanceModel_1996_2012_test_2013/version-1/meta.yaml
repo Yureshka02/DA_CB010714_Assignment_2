@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748888532590
+current_stage: None
+description: ''
+last_updated_timestamp: 1748888532590
+name: PlayerPerformanceModel_1996_2012_test_2013
+run_id: 43e0eb55633d4d3dbf1fb460eb19f80e
+run_link: ''
+source: mlflow-artifacts:/0/43e0eb55633d4d3dbf1fb460eb19f80e/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/43e0eb55633d4d3dbf1fb460eb19f80e/artifacts/model
+user_id: null
+version: 1

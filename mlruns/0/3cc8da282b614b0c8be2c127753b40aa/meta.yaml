@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3cc8da282b614b0c8be2c127753b40aa/artifacts
+deleted_time: 1748887227436
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3cc8da282b614b0c8be2c127753b40aa
+run_name: traveling-snail-399
+run_uuid: 3cc8da282b614b0c8be2c127753b40aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886470340
+status: 1
+tags: []
+user_id: Dell

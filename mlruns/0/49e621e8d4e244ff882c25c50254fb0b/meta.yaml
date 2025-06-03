@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/49e621e8d4e244ff882c25c50254fb0b/artifacts
+deleted_time: 1748887227461
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 49e621e8d4e244ff882c25c50254fb0b
+run_name: carefree-vole-402
+run_uuid: 49e621e8d4e244ff882c25c50254fb0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886464937
+status: 1
+tags: []
+user_id: Dell

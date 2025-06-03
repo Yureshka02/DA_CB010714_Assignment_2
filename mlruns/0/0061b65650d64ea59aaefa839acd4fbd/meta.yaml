@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0061b65650d64ea59aaefa839acd4fbd/artifacts
+deleted_time: 1748888375685
+end_time: 1748887827472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0061b65650d64ea59aaefa839acd4fbd
+run_name: skittish-kit-914
+run_uuid: 0061b65650d64ea59aaefa839acd4fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887822275
+status: 4
+tags: []
+user_id: Dell

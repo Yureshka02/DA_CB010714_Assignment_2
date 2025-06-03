@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/305d5dfd134f42f7b4ca676a2642b467/artifacts
+deleted_time: 1748888375903
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 305d5dfd134f42f7b4ca676a2642b467
+run_name: upbeat-elk-849
+run_uuid: 305d5dfd134f42f7b4ca676a2642b467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887371807
+status: 1
+tags: []
+user_id: Dell

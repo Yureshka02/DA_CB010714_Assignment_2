@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0cfa95d970bd4478adb359f4a3fd774f/artifacts
+deleted_time: 1748888375788
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0cfa95d970bd4478adb359f4a3fd774f
+run_name: amazing-fish-704
+run_uuid: 0cfa95d970bd4478adb359f4a3fd774f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887409756
+status: 1
+tags: []
+user_id: Dell

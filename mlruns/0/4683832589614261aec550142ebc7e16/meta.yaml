@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4683832589614261aec550142ebc7e16/artifacts
+deleted_time: 1748888375775
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4683832589614261aec550142ebc7e16
+run_name: fearless-duck-711
+run_uuid: 4683832589614261aec550142ebc7e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887418434
+status: 1
+tags: []
+user_id: Dell

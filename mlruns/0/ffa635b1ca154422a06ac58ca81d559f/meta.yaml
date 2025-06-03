@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ffa635b1ca154422a06ac58ca81d559f/artifacts
+deleted_time: 1748888375806
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ffa635b1ca154422a06ac58ca81d559f
+run_name: incongruous-crow-490
+run_uuid: ffa635b1ca154422a06ac58ca81d559f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887404014
+status: 1
+tags: []
+user_id: Dell

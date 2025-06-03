@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fd7bc05b33784caca31d859ec24ee56f/artifacts
+deleted_time: 1748888375676
+end_time: 1748887844813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fd7bc05b33784caca31d859ec24ee56f
+run_name: respected-hen-814
+run_uuid: fd7bc05b33784caca31d859ec24ee56f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887839114
+status: 4
+tags: []
+user_id: Dell

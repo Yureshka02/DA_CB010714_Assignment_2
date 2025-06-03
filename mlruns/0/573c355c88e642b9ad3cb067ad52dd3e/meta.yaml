@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/573c355c88e642b9ad3cb067ad52dd3e/artifacts
+deleted_time: 1748888375879
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 573c355c88e642b9ad3cb067ad52dd3e
+run_name: valuable-smelt-670
+run_uuid: 573c355c88e642b9ad3cb067ad52dd3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887379449
+status: 1
+tags: []
+user_id: Dell

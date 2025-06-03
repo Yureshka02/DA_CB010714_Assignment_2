@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b3bb412f5c2943c9a0cddf85c7a68521/artifacts
+deleted_time: 1748888375835
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b3bb412f5c2943c9a0cddf85c7a68521
+run_name: redolent-loon-822
+run_uuid: b3bb412f5c2943c9a0cddf85c7a68521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887390239
+status: 1
+tags: []
+user_id: Dell

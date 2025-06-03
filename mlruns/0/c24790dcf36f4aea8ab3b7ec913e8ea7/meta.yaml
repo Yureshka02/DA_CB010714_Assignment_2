@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c24790dcf36f4aea8ab3b7ec913e8ea7/artifacts
+deleted_time: 1748888375752
+end_time: 1748887466048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c24790dcf36f4aea8ab3b7ec913e8ea7
+run_name: orderly-finch-640
+run_uuid: c24790dcf36f4aea8ab3b7ec913e8ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887465990
+status: 4
+tags: []
+user_id: Dell

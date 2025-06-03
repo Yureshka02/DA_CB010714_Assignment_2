@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/144a1f3ba5fd4f11ae64748aff410b2b/artifacts
+deleted_time: 1748888375869
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 144a1f3ba5fd4f11ae64748aff410b2b
+run_name: ambitious-stork-468
+run_uuid: 144a1f3ba5fd4f11ae64748aff410b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887387478
+status: 1
+tags: []
+user_id: Dell

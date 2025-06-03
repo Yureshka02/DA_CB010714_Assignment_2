@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c2163d06344e447da9f1a11e9c00596d/artifacts
+deleted_time: 1748888375678
+end_time: 1748887835996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c2163d06344e447da9f1a11e9c00596d
+run_name: suave-robin-857
+run_uuid: c2163d06344e447da9f1a11e9c00596d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887830495
+status: 4
+tags: []
+user_id: Dell

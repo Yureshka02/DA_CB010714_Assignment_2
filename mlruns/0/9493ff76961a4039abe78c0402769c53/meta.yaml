@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9493ff76961a4039abe78c0402769c53/artifacts
+deleted_time: 1748887227457
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9493ff76961a4039abe78c0402769c53
+run_name: exultant-asp-161
+run_uuid: 9493ff76961a4039abe78c0402769c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886467636
+status: 1
+tags: []
+user_id: Dell

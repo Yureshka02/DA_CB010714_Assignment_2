@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ef8434c775bf4ba0a9733abf530bbc59/artifacts
+deleted_time: 1748887227479
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ef8434c775bf4ba0a9733abf530bbc59
+run_name: gentle-gnat-346
+run_uuid: ef8434c775bf4ba0a9733abf530bbc59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886459535
+status: 1
+tags: []
+user_id: Dell

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b8e3fd5b12e44ab1910c37ec236921e4/artifacts
+deleted_time: 1748888375783
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b8e3fd5b12e44ab1910c37ec236921e4
+run_name: bouncy-turtle-436
+run_uuid: b8e3fd5b12e44ab1910c37ec236921e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887415398
+status: 1
+tags: []
+user_id: Dell

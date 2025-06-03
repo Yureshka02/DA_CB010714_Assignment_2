@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/48655e77b3c14e52876e812588f41c0e/artifacts
+deleted_time: 1748887227433
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 48655e77b3c14e52876e812588f41c0e
+run_name: flawless-ray-818
+run_uuid: 48655e77b3c14e52876e812588f41c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886603997
+status: 1
+tags: []
+user_id: Dell

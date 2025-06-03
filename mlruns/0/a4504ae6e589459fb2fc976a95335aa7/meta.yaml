@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a4504ae6e589459fb2fc976a95335aa7/artifacts
+deleted_time: 1748888375786
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a4504ae6e589459fb2fc976a95335aa7
+run_name: burly-mouse-985
+run_uuid: a4504ae6e589459fb2fc976a95335aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887412442
+status: 1
+tags: []
+user_id: Dell

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/940ecb9155be472cac9e6cd9e65d018a/artifacts
+deleted_time: 1748888375712
+end_time: 1748887802921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 940ecb9155be472cac9e6cd9e65d018a
+run_name: aged-tern-427
+run_uuid: 940ecb9155be472cac9e6cd9e65d018a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887798055
+status: 4
+tags: []
+user_id: Dell

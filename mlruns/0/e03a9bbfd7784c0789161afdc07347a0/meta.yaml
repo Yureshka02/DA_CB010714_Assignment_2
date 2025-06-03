@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e03a9bbfd7784c0789161afdc07347a0/artifacts
+deleted_time: 1748888375738
+end_time: 1748887477673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e03a9bbfd7784c0789161afdc07347a0
+run_name: ambitious-bass-187
+run_uuid: e03a9bbfd7784c0789161afdc07347a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887477607
+status: 4
+tags: []
+user_id: Dell

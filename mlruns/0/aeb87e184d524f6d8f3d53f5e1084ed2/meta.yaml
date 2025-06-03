@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/aeb87e184d524f6d8f3d53f5e1084ed2/artifacts
+deleted_time: 1748888375802
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aeb87e184d524f6d8f3d53f5e1084ed2
+run_name: stately-frog-311
+run_uuid: aeb87e184d524f6d8f3d53f5e1084ed2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887401192
+status: 1
+tags: []
+user_id: Dell

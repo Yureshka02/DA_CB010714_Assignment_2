@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8b03746687be4263bd4b25df88406af4/artifacts
+deleted_time: 1748888375767
+end_time: 1748887468908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8b03746687be4263bd4b25df88406af4
+run_name: rebellious-cow-252
+run_uuid: 8b03746687be4263bd4b25df88406af4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887468838
+status: 4
+tags: []
+user_id: Dell

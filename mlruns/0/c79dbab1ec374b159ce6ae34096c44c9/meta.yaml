@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c79dbab1ec374b159ce6ae34096c44c9/artifacts
+deleted_time: 1748888375819
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c79dbab1ec374b159ce6ae34096c44c9
+run_name: auspicious-moth-608
+run_uuid: c79dbab1ec374b159ce6ae34096c44c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887395773
+status: 1
+tags: []
+user_id: Dell

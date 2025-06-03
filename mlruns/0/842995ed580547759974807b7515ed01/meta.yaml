@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/842995ed580547759974807b7515ed01/artifacts
+deleted_time: 1748888375705
+end_time: 1748887810702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 842995ed580547759974807b7515ed01
+run_name: colorful-mare-679
+run_uuid: 842995ed580547759974807b7515ed01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887805843
+status: 4
+tags: []
+user_id: Dell

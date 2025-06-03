@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748888644254
+current_stage: None
+description: ''
+last_updated_timestamp: 1748888644254
+name: PlayerPerformanceModel_1996_2020_test_2021
+run_id: 66325ed86e1d486eba3b2f827677f8b2
+run_link: ''
+source: mlflow-artifacts:/0/66325ed86e1d486eba3b2f827677f8b2/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/66325ed86e1d486eba3b2f827677f8b2/artifacts/model
+user_id: null
+version: 1

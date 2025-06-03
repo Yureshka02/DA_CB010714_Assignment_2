@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6a2ab72fbe9f483485399ede3e30dfc3/artifacts
+deleted_time: 1748888375814
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6a2ab72fbe9f483485399ede3e30dfc3
+run_name: suave-bee-726
+run_uuid: 6a2ab72fbe9f483485399ede3e30dfc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887398584
+status: 1
+tags: []
+user_id: Dell

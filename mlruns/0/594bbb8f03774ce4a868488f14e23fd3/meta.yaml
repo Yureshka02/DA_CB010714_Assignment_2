@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/594bbb8f03774ce4a868488f14e23fd3/artifacts
+deleted_time: 1748887227486
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 594bbb8f03774ce4a868488f14e23fd3
+run_name: legendary-mole-1000
+run_uuid: 594bbb8f03774ce4a868488f14e23fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886456773
+status: 1
+tags: []
+user_id: Dell

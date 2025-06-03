@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5e2d1eb3f11646db8ccb1c6ac7631ea2/artifacts
+deleted_time: 1748887227432
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5e2d1eb3f11646db8ccb1c6ac7631ea2
+run_name: fortunate-hog-239
+run_uuid: 5e2d1eb3f11646db8ccb1c6ac7631ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886809469
+status: 1
+tags: []
+user_id: Dell

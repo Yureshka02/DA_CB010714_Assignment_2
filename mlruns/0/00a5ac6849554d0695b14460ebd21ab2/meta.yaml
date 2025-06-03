@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/00a5ac6849554d0695b14460ebd21ab2/artifacts
+deleted_time: 1748888375793
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 00a5ac6849554d0695b14460ebd21ab2
+run_name: masked-rat-740
+run_uuid: 00a5ac6849554d0695b14460ebd21ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887406528
+status: 1
+tags: []
+user_id: Dell

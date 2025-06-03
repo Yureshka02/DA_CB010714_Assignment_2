@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d9984079ff7040dca478882437154fe3/artifacts
+deleted_time: 1748888375746
+end_time: 1748887471767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d9984079ff7040dca478882437154fe3
+run_name: placid-hawk-827
+run_uuid: d9984079ff7040dca478882437154fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887471720
+status: 4
+tags: []
+user_id: Dell

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/70d9ae9264664e33b33b39db67f9b06f/artifacts
+deleted_time: 1748888375743
+end_time: 1748887474697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 70d9ae9264664e33b33b39db67f9b06f
+run_name: dazzling-loon-643
+run_uuid: 70d9ae9264664e33b33b39db67f9b06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887474628
+status: 4
+tags: []
+user_id: Dell

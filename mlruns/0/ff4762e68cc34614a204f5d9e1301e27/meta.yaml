@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ff4762e68cc34614a204f5d9e1301e27/artifacts
+deleted_time: 1748888375679
+end_time: 1748887849766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ff4762e68cc34614a204f5d9e1301e27
+run_name: respected-whale-647
+run_uuid: ff4762e68cc34614a204f5d9e1301e27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887848223
+status: 4
+tags: []
+user_id: Dell

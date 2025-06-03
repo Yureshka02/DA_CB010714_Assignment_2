@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d476e9db9db749afb5350478b7b98e57/artifacts
+deleted_time: 1748888375771
+end_time: 1748887463244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d476e9db9db749afb5350478b7b98e57
+run_name: bold-perch-389
+run_uuid: d476e9db9db749afb5350478b7b98e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748887463187
+status: 4
+tags: []
+user_id: Dell

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8bf61f08c8c84859a03e4d5689161b16/artifacts
+deleted_time: 1748887227470
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8bf61f08c8c84859a03e4d5689161b16
+run_name: welcoming-owl-744
+run_uuid: 8bf61f08c8c84859a03e4d5689161b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748886462135
+status: 1
+tags: []
+user_id: Dell
