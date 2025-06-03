@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/159a7af04bf84acba368eb5dcc2f7c53/artifacts
+deleted_time: 1748947292306
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 159a7af04bf84acba368eb5dcc2f7c53
+run_name: wistful-shark-55
+run_uuid: 159a7af04bf84acba368eb5dcc2f7c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748947027295
+status: 1
+tags: []
+user_id: Dell

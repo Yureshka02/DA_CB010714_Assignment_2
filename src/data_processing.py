@@ -33,7 +33,7 @@ def preprocess_data(df, is_training=True): # <-- ENSURE 'is_training=True' IS HE
             return int(str(season_str)[:4])
         except ValueError:
             # Handle cases where season format might be unexpected, e.g., return NaN
-            return np.nan 
+            return np.nan
     df['season'] = df['season'].apply(get_season_year)
     
     # Fill any NaNs that might result from season conversion if needed

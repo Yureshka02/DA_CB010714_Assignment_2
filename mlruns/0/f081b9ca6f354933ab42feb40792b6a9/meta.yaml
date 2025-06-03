@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f081b9ca6f354933ab42feb40792b6a9/artifacts
+deleted_time: 1748947292286
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f081b9ca6f354933ab42feb40792b6a9
+run_name: indecisive-perch-650
+run_uuid: f081b9ca6f354933ab42feb40792b6a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748947094861
+status: 1
+tags: []
+user_id: Dell

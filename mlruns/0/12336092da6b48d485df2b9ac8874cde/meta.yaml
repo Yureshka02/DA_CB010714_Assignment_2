@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/12336092da6b48d485df2b9ac8874cde/artifacts
+deleted_time: 1748947292282
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 12336092da6b48d485df2b9ac8874cde
+run_name: peaceful-horse-329
+run_uuid: 12336092da6b48d485df2b9ac8874cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748947178881
+status: 1
+tags: []
+user_id: Dell

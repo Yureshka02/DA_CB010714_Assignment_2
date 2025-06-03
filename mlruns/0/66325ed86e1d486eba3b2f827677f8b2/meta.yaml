@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/66325ed86e1d486eba3b2f827677f8b2/artifacts
+deleted_time: 1748947292324
 end_time: 1748888644688
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 66325ed86e1d486eba3b2f827677f8b2
 run_name: Training_1996-2020_Test_2021
 run_uuid: 66325ed86e1d486eba3b2f827677f8b2

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/794d29a368b04f85a55e746a56539376/artifacts
+deleted_time: 1748947292292
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 794d29a368b04f85a55e746a56539376
+run_name: clean-snake-120
+run_uuid: 794d29a368b04f85a55e746a56539376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748947121339
+status: 1
+tags: []
+user_id: Dell

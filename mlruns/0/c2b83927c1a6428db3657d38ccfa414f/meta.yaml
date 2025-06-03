@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c2b83927c1a6428db3657d38ccfa414f/artifacts
+end_time: 1748949894434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b83927c1a6428db3657d38ccfa414f
+run_name: Prediction_Season_2022_Model_None
+run_uuid: c2b83927c1a6428db3657d38ccfa414f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748949886881
+status: 3
+tags: []
+user_id: Dell

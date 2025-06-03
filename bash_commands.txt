@@ -4,6 +4,7 @@
 --To initiate the mlflow (in a different terminal)
 mlflow ui   => http://127.0.0.1:5000
 
+____________________________________________________________________________________________
 --To start Training 
 # Define the path to your Python executable for convenience
 $python_exe = ".\.venv\Scripts\python.exe"
@@ -33,3 +34,8 @@ $python_exe = ".\.venv\Scripts\python.exe"
 & $python_exe -m src.model_training --training_seasons='1996-2019' --test_season=2020
 & $python_exe -m src.model_training --training_seasons='1996-2020' --test_season=2021
 & $python_exe -m src.model_training --training_seasons='1996-2021' --test_season=2022
+_____________________________________________________________________________________________
+
+--To predict the 2022 performance metrics 
+.\.venv\Scripts\python.exe -m src.model_prediction --model_name="PlayerPerformanceModel_1996_2021_test_2022" --model_stage="None" --input_season=2022 --output_file_path="data/predictions/season_2022_predictions.csv"
+
