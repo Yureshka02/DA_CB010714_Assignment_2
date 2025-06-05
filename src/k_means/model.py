@@ -1,4 +1,3 @@
-# src/k_means/model.py
 
 import os
 import numpy as np
