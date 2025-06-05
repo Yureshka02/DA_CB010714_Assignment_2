@@ -8,11 +8,6 @@ def load_data():
     Loads raw player data from a CSV file.
     Assumes 'all_seasons.csv' is in 'data/raw/' relative to the project root.
     """
-    # **CHANGE**: Path adjusted to go three levels up to reach the project root
-    # os.path.abspath(__file__) -> CB010714-DA-2/src/k_means/data.py
-    # os.path.dirname(os.path.abspath(__file__)) -> CB010714-DA-2/src/k_means/
-    # os.path.dirname(os.path.dirname(...)) -> CB010714-DA-2/src/
-    # os.path.dirname(os.path.dirname(os.path.dirname(...))) -> CB010714-DA-2/ (project root)
     project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     file_path = os.path.join(project_root, 'data', 'raw', 'all_seasons.csv')
     

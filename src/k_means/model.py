@@ -59,8 +59,13 @@ def train_kmeans_model(X_scaled_df, optimal_k):
     print(f"[INFO] Training KMeans with k = {optimal_k}...")
     kmeans_model = KMeans(n_clusters=optimal_k, random_state=42, n_init=10)
     kmeans_model.fit(X_scaled_df)
+
+    print("[INFO] Final centroids after convergence:")
+    print(kmeans_model.cluster_centers_)
+
     print("[INFO] KMeans training complete.")
     return kmeans_model
+
 
 def characterize_clusters(df_clustered, features_to_cluster):
     _ensure_output_dirs_exist()
